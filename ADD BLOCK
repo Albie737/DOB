@@ -15,10 +15,11 @@ ff02::3 ip6-allhosts
 
 0.0.0.0 roblox.com
 0.0.0.0 assetdelivery.roblox.com
-ephemeralcounters.api.roblox.com
-
-assetgame.roblox.com
-
-presence.roblox.com
-metrics.roblox.com
-games.roblox.com
+0.0.0.0 ephemeralcounters.api.roblox.com
+0.0.0.0 ecsv2.roblox.com
+0.0.0.0 client-telemetry.roblox.com
+0.0.0.0 locale.roblox.com
+0.0.0.0 assetgame.roblox.com
+0.0.0.0 presence.roblox.com
+0.0.0.0 metrics.roblox.com
+0.0.0.0 games.roblox.com
